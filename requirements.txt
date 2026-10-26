@@ -1,0 +1,16 @@
+# Tested with Python 3.12.4 on Windows 11 (64-bit)
+
+numpy==2.5.4
+pandas==3.0.6
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+joblib==1.4.2
+threadpoolctl==3.5.0
+
+xgboost==3.4.1
+lightgbm==4.6.0
+catboost==1.2.10
+
+ipython==8.22.1
+ipykernel==6.29.2

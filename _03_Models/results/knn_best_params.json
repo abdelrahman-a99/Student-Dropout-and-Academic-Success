@@ -1,0 +1,8 @@
+{
+  "best_params": {
+    "n_neighbors": 11,
+    "p": 2,
+    "weights": "uniform"
+  },
+  "best_cv_macro_f1": 0.6085944947492077
+}

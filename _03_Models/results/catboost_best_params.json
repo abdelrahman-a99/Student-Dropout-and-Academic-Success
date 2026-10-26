@@ -1,0 +1,8 @@
+{
+  "best_params": {
+    "depth": 4,
+    "iterations": 200,
+    "learning_rate": 0.1
+  },
+  "best_cv_macro_f1": 0.6930519402615903
+}

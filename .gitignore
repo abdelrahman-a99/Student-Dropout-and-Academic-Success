@@ -1,0 +1,39 @@
+# Python environments
+.venv/
+venv/
+env/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Local editor settings
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Generated CatBoost working files
+catboost_info/
+
+# Logs and temporary files
+*.log
+*.tmp
+~$*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Original dataset archives; extracted CSV is retained
+/data/1_raw/*.zip

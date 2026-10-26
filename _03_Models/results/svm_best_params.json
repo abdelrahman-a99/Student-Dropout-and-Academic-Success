@@ -1,0 +1,8 @@
+{
+  "best_params": {
+    "C": 10,
+    "gamma": 0.01,
+    "kernel": "rbf"
+  },
+  "best_cv_macro_f1": 0.7149736843270909
+}

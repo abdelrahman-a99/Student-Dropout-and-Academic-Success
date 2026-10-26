@@ -1,0 +1,2 @@
+model,accuracy,balanced_accuracy,macro_f1,weighted_f1,roc_auc_ovr_macro,roc_auc_ovr_weighted,dropout_precision,dropout_recall,dropout_f1
+SVM,0.8,0.7444450657195495,0.7509327749019334,0.7982094588536744,0.8834475676027863,0.9023238058864631,0.875,0.7640845070422535,0.8157894736842105

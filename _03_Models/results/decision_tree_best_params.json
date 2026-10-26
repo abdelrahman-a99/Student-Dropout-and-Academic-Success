@@ -1,0 +1,8 @@
+{
+  "best_params": {
+    "criterion": "gini",
+    "max_depth": 5,
+    "min_samples_leaf": 20
+  },
+  "best_cv_macro_f1": 0.6613245167637284
+}
